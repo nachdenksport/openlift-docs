@@ -181,12 +181,12 @@ enable = false
 	name = "Nachdenksport Shop"
 	url = "https://nachdenksport.de/"
 	icon = "fas fa-shopping-cart"
-    desc = "Discussion and help from your fellow users"
+    desc = "Alle Teile zum Kauf erhältlich"
 [[params.links.user]]
 	name ="YouTube"
 	url = "https://youtube.com/c/nachdenksport"
 	icon = "fab fa-youtube"
-    desc = "Follow us on YouTube!"
+    desc = "Folge uns auf YouTube!"
 #[[params.links.user]]
 #	name = "Stack Overflow"
 #	url = "https://example.org/stack"
