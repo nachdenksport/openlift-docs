@@ -27,14 +27,14 @@ Du besitzt, oder hast Zugriff auf einen 3D-Drucker? Dann kannst du alle 3D gedru
 
 Du hast eine koventionelle oder CNC Fräse? Dann kannst du dir die Einlegeplatte einfach selber Fräsen.
 
-<a href="#" class="btn btn-primary btn-lg" tabindex="-1" role="button" aria-disabled="false">Selber Fräsen</a>
+<a href="/docs/make/mill/" class="btn btn-primary btn-lg" tabindex="-1" role="button" aria-disabled="false">Selber Fräsen</a>
 
 
 ### Ich will Drehen!
 
 Du nennst eine Drehmaschine dein eigen, oder weißt wo eine steht? Dann kannst du die Trapezgewindespindel auch einfach selber bearbeiten.
 
-<a href="#" class="btn btn-primary btn-lg" tabindex="-1" role="button" aria-disabled="false">Selber Drehen</a>
+<a href="/docs/make/turn/" class="btn btn-primary btn-lg" tabindex="-1" role="button" aria-disabled="false">Selber Drehen</a>
 
 ## Wie geht's weiter?
 
