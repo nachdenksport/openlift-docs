@@ -28,13 +28,13 @@ category = "categories"
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["tags", "categories"] 
+taxonomyCloud = ["tags", "categories"]
 
 # If used, must have same lang as taxonomyCloud
-taxonomyCloudTitle = ["Tag Cloud", "Categories"] 
+taxonomyCloudTitle = ["Tag Cloud", "Categories"]
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["tags", "categories"] 
+taxonomyPageHeader = ["tags", "categories"]
 
 
 # Highlighting config
@@ -95,7 +95,7 @@ weight = 1
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "Die OpenLift Authoren"
+copyright = "Die OpenLift Autoren"
 privacy_policy = "https://nachdenksport.de/datenschutzerklarung/"
 impress = "https://nachdenksport.de/impressum/"
 
@@ -106,13 +106,13 @@ impress = "https://nachdenksport.de/impressum/"
 # This menu appears only if you have at least one [params.versions] set.
 version_menu = "Releases"
 
-# Flag used in the "version-banner" partial to decide whether to display a 
+# Flag used in the "version-banner" partial to decide whether to display a
 # banner on every page indicating that this is an archived version of the docs.
 # Set this flag to "true" if you want to display the banner.
 archived_version = false
 
 # The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the 
+# Used in the "version-banner" partial to display a version number for the
 # current doc set.
 version = "1.0"
 
@@ -171,7 +171,7 @@ yes = 'Schön zu hören!'
 no = 'Das tut uns leid. Erstelle gerne ein <a href="https://github.com/nachdenksport/openlift-docs/issues/new">Ticket</a> und sag, was wir verbessern können.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page, 
+# If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = false
