@@ -26,8 +26,8 @@ Falls du einen Komplettbausatz bestellen möchtest, oder hast, ist die folgende 
 | **Einlegeplatte** | | | | |
 | | Grundplatte Aluminium Al Mg 4,5 MN (EN AW 5083) 200x160x10 | 1 | [Öffnen](https://nachdenksport.de/product/einlegeplatte-aluminium/) | **Bearbeitet** |
 | | Nevillierschrauben ISO 4028 A2 M5x10 | 4 | bei der Einlegeplatte dabei | |
-| | Neodym Magnete Grundplatte 10x3 mm | 3 | bei der Einlegeplatte dabei | |
-| | Neodym Magnete Reduzierring 10x2 mm | 3 | beim Reduzierring dabei | |
+| | Neodym Magnete Grundplatte 6x3 mm | 3 | bei der Einlegeplatte dabei | |
+| | Neodym Magnete Reduzierring 6x2 mm | 3 | beim Reduzierring dabei | |
 | | Freifräsanschlag M6 | 1 | [Öffnen](https://nachdenksport.de/product/freifraesanschlag-m6/) | |
 | **Befestigung** | | | | |
 | | ISO 4762 A2 M2x5 | 1 | beim Hapthalter dabei | |
